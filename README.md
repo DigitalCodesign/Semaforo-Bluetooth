@@ -2,7 +2,7 @@
 
 Proyecto desarrollado para el IES Güimar para implementar un semaforo controlado por Bluetooth mediante una App movil. El Arduino se encarga de controlar el encendido de 3 relés que activan cada bombilla del semáforo.
 
-## Autores: 
+## Autores
 - José Luis González de Chávez 
 - Augusto Samuel Hernández Martín
 
