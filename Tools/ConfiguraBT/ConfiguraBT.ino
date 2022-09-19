@@ -7,7 +7,7 @@
 #include <SoftwareSerial.h> // libreria que permite establecer pines digitales
         // para comunicacion serie
 
-SoftwareSerial miBT(11, 10);  // pin 10 como RX, pin 11 como TX
+SoftwareSerial miBT(10, 11);  // pin 10 como RX, pin 11 como TX
 
 void setup(){
   Serial.begin(9600);   // comunicacion de monitor serial a 9600 bps
